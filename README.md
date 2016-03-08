@@ -1,6 +1,6 @@
 # bookmarks
 
-my bookmarks
+my bookmarks / read list
 
 ## books
 
