@@ -14,4 +14,6 @@ my bookmarks / read list
 
 ### books
 
-http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627
+[Growing Object-Oriented Software, Guided by Tests by Steve Freeman](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+
+[Building Microservices by Sam Newman](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/ref=sr_1_1?s=books&ie=UTF8&qid=1457470595&sr=1-1&keywords=micro+services)
