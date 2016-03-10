@@ -10,6 +10,8 @@ my bookmarks / read list
 
 [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 
+[All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+
 ### blogs
 
 [Rails Monilithic to Micro Services by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
