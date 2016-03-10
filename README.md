@@ -14,7 +14,7 @@ my bookmarks / read list
 
 ### blogs
 
-[Rails Monolithic to Micro Services by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
+[An Incremental Migration from Rails Monolithic to Microservices by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
 
 ### books
 
