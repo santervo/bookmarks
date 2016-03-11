@@ -24,4 +24,6 @@ my bookmarks / read list
 
 [Agile Software Development, Priciples, Patterns and Practices by Robert C. Martin](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
 
+[Object Thinking by David West](http://www.amazon.com/Object-Thinking-Developer-Reference-David/dp/0735619654)
+
 [Building Microservices by Sam Newman](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/ref=sr_1_1?s=books&ie=UTF8&qid=1457470595&sr=1-1&keywords=micro+services)
