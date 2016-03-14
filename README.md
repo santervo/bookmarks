@@ -20,6 +20,8 @@ my bookmarks / read list
 
 [An Incremental Migration from Rails Monolithic to Microservices by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
 
+[Hexagonal Architecture for Rails by Victor Savkin](http://victorsavkin.com/post/42542190528/hexagonal-architecture-for-rails-developers)
+
 ### books
 
 [Growing Object-Oriented Software, Guided by Tests by Steve Freeman](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
