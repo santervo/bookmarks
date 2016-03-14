@@ -22,6 +22,8 @@ my bookmarks / read list
 
 [Hexagonal Architecture for Rails by Victor Savkin](http://victorsavkin.com/post/42542190528/hexagonal-architecture-for-rails-developers)
 
+[Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
+
 ### books
 
 [Growing Object-Oriented Software, Guided by Tests by Steve Freeman](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
