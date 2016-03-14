@@ -4,15 +4,17 @@ my bookmarks / read list
 
 ### talks
 
-[Treating objects like people by Matt Wynne](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
-
 [Architecture the Lost Years by Robert C. Martin](https://www.youtube.com/watch?v=hALFGQNeEnU)
 
 [Hexagonal Rails by Matt Wynne](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 
+[Treating objects like people by Matt Wynne](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
+
 [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 
 [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+
+[Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
 
 ### blogs
 
