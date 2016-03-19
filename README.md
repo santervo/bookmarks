@@ -16,6 +16,8 @@ my bookmarks / read list
 
 [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
 
+[Decoupling from Rails by Jim Weirich](https://www.youtube.com/watch?v=tg5RFeSfBM4)
+
 ### blogs
 
 [An Incremental Migration from Rails Monolithic to Microservices by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
