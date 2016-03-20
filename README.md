@@ -18,6 +18,8 @@ my bookmarks / read list
 
 [Decoupling from Rails by Jim Weirich](https://www.youtube.com/watch?v=tg5RFeSfBM4)
 
+[Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
+
 ### blogs
 
 [An Incremental Migration from Rails Monolithic to Microservices by Eric Swenson-Healey](http://blog.carbonfive.com/2014/05/29/an-incremental-migration-from-rails-monolithic-to-microservices/)
