@@ -1,6 +1,6 @@
-# bookmarks
+# bookmarks-oo
 
-my bookmarks / read list
+Bookmarks to talks/articles about OO design and programming
 
 ### talks
 
